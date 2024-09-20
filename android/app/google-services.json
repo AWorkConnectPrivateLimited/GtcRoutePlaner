@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "126538889952",
+    "firebase_url": "https://gtcroute-default-rtdb.firebaseio.com",
+    "project_id": "gtcroute",
+    "storage_bucket": "gtcroute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126538889952:android:f57102d80584285dcbae85",
+        "android_client_info": {
+          "package_name": "com.gtcawc.routeplaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Kn50GCTUi2B49sogD75UjJOiiA6pzIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
